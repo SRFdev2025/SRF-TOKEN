@@ -1,0 +1,36 @@
+pragma solidity ^0.8.30;
+
+
+
+contract SRFToken is ERC20, Ownable {
+    bool public transfersEnabled = false;
+    address public saleContract;
+    
+    constructor(uint256 initialSupply) ERC20("SRF Token", "SRF") Ownable(msg.sender) {
+        _mint(msg.sender, initialSupply * 10 ** decimals());
+    }
+
+    function setSaleContract(address _saleContract) external onlyOwner {
+        saleContract = _saleContract;
+    }
+
+    function transfer(address to, uint256 amount) public override returns (bool) {
+        require(transfersEnabled || msg.sender == owner() || msg.sender == saleContract, 
+                "Transfers disabled during sale");
+        return super.transfer(to, amount);
+    }
+
+    function transferFrom(address from, address to, uint256 amount) public override returns (bool) {
+        require(transfersEnabled || from == owner() || msg.sender == saleContract, 
+                "Transfers disabled during sale");
+        return super.transferFrom(from, to, amount);
+    }
+
+    function setTransfersEnabled(bool _enabled) external onlyOwner {
+        transfersEnabled = _enabled;
+    }
+
+    function burn(uint256 amount) external onlyOwner {
+        _burn(msg.sender, amount);
+    }
+}
