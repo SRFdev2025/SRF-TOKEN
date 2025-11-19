@@ -7,7 +7,7 @@
 
 ## 🔥 Overview
 
-**SRF Token (Syria Free)** is a Polygon-based digital asset designed to support **environmental sustainability**, **recycling systems**, and **community reconstruction** in Syria and other affected regions.  
+**SRF Token** is a Polygon-based digital asset designed to support **environmental sustainability**, **recycling systems**, and **community reconstruction** in Syria and other affected regions.  
 The project bridges decentralized blockchain technology with real-world eco-friendly initiatives, providing reward-based mechanisms that encourage communities to adopt recycling and green practices.
 
 SRF Token aims to create a transparent, traceable, and fair ecosystem that enables individuals, municipalities, NGOs, and environmental organizations to collaborate toward a cleaner and more sustainable future.
@@ -52,7 +52,7 @@ SRF Token promotes:
 ## 📄 Whitepaper
 
 Full whitepaper available here:  
-https://www.srftoken.com/docs/SRF-Whitepaper.pdf
+https://www.srftoken.com/whitepaper
 https://github.com/SRFdev2025/SRF-TOKEN/tree/main/docs
 ---
 
