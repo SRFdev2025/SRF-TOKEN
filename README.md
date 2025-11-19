@@ -53,7 +53,7 @@ SRF Token promotes:
 
 Full whitepaper available here:  
 https://www.srftoken.com/docs/SRF-Whitepaper.pdf
-
+https://github.com/SRFdev2025/SRF-TOKEN/tree/main/docs
 ---
 
 ## 🌐 Official Website
@@ -90,13 +90,13 @@ https://www.srftoken.com
 - **Twitter/X:** https://x.com/Syriafreetoken  
 - **Facebook:** https://www.facebook.com/people/Syriafree-Token-SRF/61579035304663/  
 - **Discord:** https://discord.com/invite/vCtccvjDU  
-
+- ** Github:** https://github.com/SRFdev2025/SRF-TOKEN
 ---
 
 ## 👥 Project Team
 
 - **Masoud** – Founder / Blockchain specialist  
-- **Omar** – Graphic Designer  
+- **Omar** – Founder / Graphic Designer  
 - **Jalal** – Intermediate Developer  
 - **Ahmad** – Senior Developer  
 -** Mohamad Khalifa - Developer  
@@ -121,7 +121,7 @@ These applications aim to support transparency, digitization, and modernization 
 - Public source code available  
 - No hidden functions  
 - No minting after deployment  
-- Token supply is fixed at 1 trillion SRF  
+- Token supply is fixed at 100 Billion SRF  
 
 ---
 
