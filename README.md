@@ -1,7 +1,7 @@
 # SRF Token (Syria Free)  
 ### Built on Polygon Blockchain • Empowering Sustainability & Community Reconstruction
 
-![SRF Logo](assets/logo.png)
+![SRF Logo](assets/SRF%20logo%2032%5E32.svg)
 
 ---
 
