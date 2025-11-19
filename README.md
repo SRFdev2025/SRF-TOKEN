@@ -97,9 +97,9 @@ https://www.srftoken.com
 
 - **Masoud** – Founder / Blockchain specialist  
 - **Omar** – Founder / Graphic Designer  
-- **Jalal** – Intermediate Developer  
+- **Abd Alaziz** – Intermediate Developer 
 - **Ahmad** – Senior Developer  
--** Mohamad Khalifa - Developer  
+- **Mohamad Khalifa** - Developer  
 ---
 
 ## 🧩 SRF Ecosystem
